@@ -11,6 +11,6 @@ Podem ser gerados gráficos do tipo heatmap, scatterplot, linha e barra.
 As interações possíveis são filtro por categoria e por país em suas respectivas seções.
 
 Equipe:
-Gabriel Branco de Azevedo
-Lucas Goulart Bunhak Santos
-Milena Rodrigues Milicio
+- Gabriel Branco de Azevedo
+- Lucas Goulart Bunhak Santos
+- Milena Rodrigues Milicio
